@@ -6,7 +6,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 ¿Qué constituye la cultura profesional de un Desarrollador de Software?  🤔 🖥️
 
-los valores que todos conocemos y que son mportantes que toda persona los tenga tembién aplican al desarrollador de software,
+Los valores que todos conocemos y que son mportantes que toda persona los tenga tembién aplican al desarrollador de software,
 como el respeto, la tolerancia, la responsabilidad, empatía, etc, pero en particular son destacables algunos aspectos que 
 desde mi punto de vista deben estar presentes en la cultura de un Desarrollador de Software.
 
@@ -40,7 +40,7 @@ de mi profesor Tarsicio Ramos al cual estimo mucho, y mencionaré lo siguiente, 
 éticos al manejar los datos sensibles, porque aunque paresca ajeno, los datos que manejamos llegan a significar vidas o un impacto
 importante en ellas y no quieres cargar con algo así en la conciencia, ni aunque signifique una suma de dinero importante.
 
-- **aber que nunca podrán parar de aprender y para estar preparados, dominar las bases.**
+- **Saber que nunca podrán parar de aprender y para estar preparados, dominar las bases.**
 
 No es sorpresa para nadie que las tecnologías evolucionan a un ritmo superior que la capacidad humana de adaptación y eso
 pude significar que aquello que aprendiste en algunos años será algo que ya no podrás monetizar más (hablando de tecnologías específicas),

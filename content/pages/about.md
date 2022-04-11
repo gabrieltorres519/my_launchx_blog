@@ -78,7 +78,7 @@ lo dejaré por aquí -> [CV](https://drive.google.com/file/d/1gT_kiLhfvsm9LlDBYT
 **Qué chula nube!!**. Otro de mis grandes intereses son las tecnologías Cloud, a las que me adentré en el **Clod Bootcamp Colombia**
 organizado por la comunidad de Microsoft Learn Student Ambassadors, con quieres también participé en el HackLatam y posteriormente me acerqué un poco a la comunidad de [Azure Tech Frogs](https://www.facebook.com/azuretechfrogs) con estudiantes de mi estado, donde tengo algunos amigos, viendo su conenido.
 
-<iframe src="https://drive.google.com/file/d/1SRepz37lzp9ohosM40aevOoACZAtY_xY/view?usp=sharing" width="100%" height="100%"></iframe>
+https://drive.google.com/file/d/1SRepz37lzp9ohosM40aevOoACZAtY_xY/view?usp=sharing
 
 **Mis Hobbies**.
 

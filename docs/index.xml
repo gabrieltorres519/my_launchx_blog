@@ -6,7 +6,19 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Gabriel Torres Mendoza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrieltorres519.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrieltorres519.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>En esta travesía he aprendido:
+ Python Logica de Programación Jupyter Notebooks Git y Github HTML CSS Javascript Introducción a frameworks como Angular y Vue Deployment con Azure  En esta misión estaré aprendiendo:
+📍 La importancia de las herramientas en el desarrollo de software: Git y GitHub. 📍 JavaScript como lenguaje de programación y Node JS como entorno de ejecución. 📍 Scripting (módulos, contextos, ES6, CommonJS, NPM).
+📍 Callbacks y eventos asíncronos.</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://gabrieltorres519.github.io/my_launchx_blog/pages/about/</link>

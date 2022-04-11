@@ -31,10 +31,14 @@ Ing. en Sistemas Computacionales y no seré yo el que niegue las similitudes, el
 perspectiva de los sistemas informáticos es, en cuanto a estrategias, complegidad, procesos y marcos de estudio,
 muy similar a analizar sistemas biológicos.
 
+![Map of Biology](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwENhHnJI1ys%2Fmaxresdefault.jpg&f=1&nofb=1)
+
 Justo antes de terminar mi Bachillerato en Ingeniería me decidí por dejar al "animal divino" tomar las riendas por un tiempo
 y me animé a participar en un Verano de la Ciencia en la que sería próximamente mi Universidad, con el proyecto
 [Compresión y Encriptación de Información utilizando Descomposición SVD](https://www.google.com/url?q=https://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/3024&sa=D&source=apps-viewer-frontend&ust=1649768891253681&usg=AOvVaw3IEJprduI05RcdbBh41VPQ&hl=es-419)  y dado que me gustan mucho las matemáticas
 me pareció un proyecto perfecto para mí, para darme cuenta de qué se trataba esto!!.
+
+[![Thumbnail](https://i9.ytimg.com/vi/kf77rg9NIiQ/maxresdefault.jpg?time=1649695200000&sqp=COCz0ZIG&rs=AOn4CLCJNDBAk3t9G5aKF9SqbxzSy8ObrA)](https://www.youtube.com/watch?v=kf77rg9NIiQ)
 
 Ya estando en la carrera me fue bastante bien en cuanto a calificaciónes desde el primer semestre (ojito, desde antes de 
 la pandemia), y consegí algunos reconocimientos por desempeño académico, lo cual fue algo que nunca fue mi meta, lo que 
@@ -65,13 +69,16 @@ pérdidas en muchos aspectos, ansiedad y dificultades, en mi caso, significó es
 de crecimiento, por lo que no fue fácil. Dicen que las grandes ideas, oportunidades e innovaciones nacen en la adversidad y por ello 
 no me rendí!!.
 
-Actualmente estoy enfocado en apreder desarrollo Web, he desarrollado ya varias aplicaciones (la mayoría con apoyo de tutoriales) utilizando 
-SCSS, Javascript, VueJS y ReactJS para el frontend, NodeJS y PHP en el backend, bases de datos como MySQL y MongoDB, además de tecnologías 
-como apollo client, apollo server, graphQL y servicios de Amazon como el S3 Bucket y me ha encantado ❤️, aunque no se me ha hecho sencillo 🤣
+**Actualidad**. Actualmente estoy enfocado en apreder desarrollo Web, he desarrollado ya varias aplicaciones (la mayoría con apoyo de tutoriales) utilizando SCSS, Javascript, VueJS y ReactJS para el frontend, NodeJS y PHP en el backend, bases de datos como MySQL y MongoDB, además de tecnologías 
+como apollo client, apollo server, graphQL y servicios de Amazon como el S3 Bucket y me ha encantado ❤️, aunque no se me ha hecho sencillo 🤣.
+También actualmente me encuentro en la "Misión Backend" de Launch X, cuyo programa cursé desde el Onboarding, con el curso Python, Git y Github,
+así como toda la "Misión Frontend", buscando validar las habilidades en mi currículum con ayuda de **Innovacción Virtual México "powered by Microsoft"**,
+lo dejaré por aquí -> [CV](https://drive.google.com/file/d/1gT_kiLhfvsm9LlDBYTsFnF0w2_TnSptj/view), por si es de tu interés jeje.
 
 **Qué chula nube!!**. Otro de mis grandes intereses son las tecnologías Cloud, a las que me adentré en el **Clod Bootcamp Colombia**
-organizado por la comunidad de Microsoft Learn Student Ambassadors, y posteriormente me acerqué un poco a la comunidad de [Azure Tech Frogs](https://www.facebook.com/azuretechfrogs) con estudiantes de mi estado, donde tengo algunos amigos, viendo su conenido.
+organizado por la comunidad de Microsoft Learn Student Ambassadors, con quieres también participé en el HackLatam y posteriormente me acerqué un poco a la comunidad de [Azure Tech Frogs](https://www.facebook.com/azuretechfrogs) con estudiantes de mi estado, donde tengo algunos amigos, viendo su conenido.
 
+![HackLatam](https://drive.google.com/file/d/1SRepz37lzp9ohosM40aevOoACZAtY_xY/view?usp=sharing)
 
 **Mis Hobbies**.
 

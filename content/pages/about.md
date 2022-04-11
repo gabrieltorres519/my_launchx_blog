@@ -5,7 +5,7 @@ menu:
     name: "AboutMe"
 ---
 
-## Quén soy?
+## Quién soy?
 
 Hola, aquí vas a poder leer sobre mi 🤩
 
@@ -48,8 +48,8 @@ o en ambiente más empresarial, como el análisis de datos o el desarrollo Web. 
 de las materias de POO y de Algoritmos y Estructuras de Datos me cautivó, desarrollé un pequeño software de Hospital para control de
 inventarios de medicinas en el área de farmacia y control de la asignación de camillas a los pacientes, esto motivado por la 
 situación de la pandemia, por lo que tuve la idea de orientarlo a este campo, utilizando los conocimientos aprendedidos en dichas
-materias y usando un poco de gráficos y animaciones usado la librería conio para que se viera más pro jeje, además de excel para
-almacenamiento y recuperaciń de los datos. 
+materias y usando un poco de gráficos y animaciones usando la librería conio para que se viera más pro jeje, además de excel para
+almacenamiento y recuperación de los datos. 
 
 Poco después me dieron la gran oportunidad de realizar prácticas en una empresa, aprendiendo sobre el desarrollo Web y para mi sorpresa,
 este proyecto en C++ que tanto me gustó y que realicé para esas materias, era muy similar a las funcionalidades core de un desarrollo para Web:
@@ -65,12 +65,12 @@ pérdidas en muchos aspectos, ansiedad y dificultades, en mi caso, significó es
 de crecimiento, por lo que no fue fácil. Dicen que las grandes ideas, oportunidades e innovaciones nacen en la adversidad y por ello 
 no me rendí!!.
 
-Actualmente estoy enfocado en apreder desarrollo Web, he desarrollado ya varias aplicacioes (la mayoría con apoyo de tutoriales) utilizando 
+Actualmente estoy enfocado en apreder desarrollo Web, he desarrollado ya varias aplicaciones (la mayoría con apoyo de tutoriales) utilizando 
 SCSS, Javascript, VueJS y ReactJS para el frontend, NodeJS y PHP en el backend, bases de datos como MySQL y MongoDB, además de tecnologías 
 como apollo client, apollo server, graphQL y servicios de Amazon como el S3 Bucket y me ha encantado ❤️, aunque no se me ha hecho sencillo 🤣
 
 **Qué chula nube!!**. Otro de mis grandes intereses son las tecnologías Cloud, a las que me adentré en el **Clod Bootcamp Colombia**
-organizado por la comunidad de microsoft Learn Student Ambassadors, y posteriormente me acerqué un poco a la comunidad de [Azure Tech Frogs](https://www.facebook.com/azuretechfrogs) con estudiantes de mi estado, donde tengo algunos amigos, viendo su conenido.
+organizado por la comunidad de Microsoft Learn Student Ambassadors, y posteriormente me acerqué un poco a la comunidad de [Azure Tech Frogs](https://www.facebook.com/azuretechfrogs) con estudiantes de mi estado, donde tengo algunos amigos, viendo su conenido.
 
 
 **Mis Hobbies**.

@@ -57,7 +57,7 @@ probablemente el nivel de tolerancia y comprensión hacia estos problemas en el 
 deberás tener en cuenta.
 
 
-Esto ha sido todo muchas gracias por leerme !! 🤗
+Esto ha sido todo, muchas gracias por leerme !! 🤗
 
 
 

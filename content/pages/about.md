@@ -38,7 +38,7 @@ y me animé a participar en un Verano de la Ciencia en la que sería próximamen
 [Compresión y Encriptación de Información utilizando Descomposición SVD](https://www.google.com/url?q=https://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/3024&sa=D&source=apps-viewer-frontend&ust=1649768891253681&usg=AOvVaw3IEJprduI05RcdbBh41VPQ&hl=es-419)  y dado que me gustan mucho las matemáticas
 me pareció un proyecto perfecto para mí, para darme cuenta de qué se trataba esto!!.
 
-[![Thumbnail](https://www.panoramaaudiovisual.com/wp-content/uploads/2018/06/ciberseguridad.jpg)](https://www.youtube.com/watch?v=kf77rg9NIiQ)
+[![Thumbnail](https://cdn.pixabay.com/photo/2018/05/14/16/25/cyber-security-3400657_960_720.jpg)](https://www.youtube.com/watch?v=kf77rg9NIiQ)
 
 Ya estando en la carrera me fue bastante bien en cuanto a calificaciónes desde el primer semestre (ojito, desde antes de 
 la pandemia), y consegí algunos reconocimientos por desempeño académico, lo cual fue algo que nunca fue mi meta, lo que 

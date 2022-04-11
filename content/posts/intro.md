@@ -4,4 +4,5 @@ date: 2022-04-11T18:16:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Hola, en este post voy a hablar un poco de la Cutura del Desarrollador de Software
+
+

@@ -46,7 +46,7 @@ me gusta es aprender y sentir que estoy haciendo lo que me gusta, porque estar c
 gran privilegio para mí.
 
 **El desarrollo WEB ❤️**. Desde que entré a la carrera tenía claro que quería dedicarme a desarrollar software, ya fueran
-scripts no muy extensos y con grán carga de teoría matemática y de estruturas de datos (como es el caso de la programación
+scripts no muy extensos y con gran carga de teoría matemática y de estruturas de datos (como es el caso de la programación
 en áreas como computación científica o para la investigación de fenómenos físicos, procesamiento de imágenes o inteligenica artificial),
 o en ambiente más empresarial, como el análisis de datos o el desarrollo Web. Comencé aprendiendo C y C++ y un proyecto particular,
 de las materias de POO y de Algoritmos y Estructuras de Datos me cautivó, desarrollé un pequeño software de Hospital para control de

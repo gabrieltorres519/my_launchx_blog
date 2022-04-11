@@ -23,7 +23,7 @@ en equipo, y no me refiero directamente a tener un equipo de desarrollo, sino a 
 construídas alrededor de esta hermosa profesión.
 
 Uno como desarrollador deber buscar activamente y estar abierto a pertenecer a comunidades, para ser apoyado mientras se es inexperto 
-y hacer lo propio y aopoyar a los demás una ves se es capaz.
+y hacer lo propio y apoyar a los demás una vez se es capaz.
 
 - **Tolerancia y tenacidad**
 
@@ -37,7 +37,7 @@ compleja, es necesario dar lo mejor, ser tenaz, saber comunicarse y saber pedir 
 
 Un desarrollador de software trabaja con datos sensibles, muchas veces dichos datos son muy importantes, y aquí tomaré las enseñansas 
 de mi profesor Tarsicio Ramos al cual estimo mucho, y mencionaré lo siguiente, que no importan las circunstancias, siempre habrá que ser
-éticos al manejar los datos sensibles, porque aunque paresca ajeno, los datos que manejamos llegan a significar vidas o un impacto
+éticos al manejar los datos sensibles, porque aunque parezca ajeno, los datos que manejamos llegan a significar vidas o un impacto
 importante en ellas y no quieres cargar con algo así en la conciencia, ni aunque signifique una suma de dinero importante.
 
 - **Saber que nunca podrán parar de aprender y para estar preparados, dominar las bases.**
@@ -45,8 +45,8 @@ importante en ellas y no quieres cargar con algo así en la conciencia, ni aunqu
 No es sorpresa para nadie que las tecnologías evolucionan a un ritmo superior que la capacidad humana de adaptación y eso
 pude significar que aquello que aprendiste en algunos años será algo que ya no podrás monetizar más (hablando de tecnologías específicas),
 por lo que un desarrollador debe tener en cuenta que estará siempre en relaciónes abiertas y que probablemente nunca podrá casarse con una
-tecnología. Esta abierto a aprender constantemente, y para que este proceso sea más suave, dominar el core de toda tecnología, la lógica,
-que en término de computación posrían ser bien las matemáticas discretas, los algoritmos y las estructiras de datos.
+tecnología. Estar abierto a aprender constantemente, y para que éste proceso sea más suave, dominar el core de toda tecnología, la lógica,
+que en términos de computación posrían ser bien las matemáticas discretas, los algoritmos y las estructiras de datos.
 
 - **Cultura de cuidado de la salud mental y prevención**
 

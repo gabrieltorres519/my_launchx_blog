@@ -41,7 +41,7 @@ me pareció un proyecto perfecto para mí, para darme cuenta de qué se trataba 
 [![Thumbnail](https://cdn.pixabay.com/photo/2018/05/14/16/25/cyber-security-3400657_960_720.jpg)](https://www.youtube.com/watch?v=kf77rg9NIiQ)
 
 Ya estando en la carrera me fue bastante bien en cuanto a calificaciónes desde el primer semestre (ojito, desde antes de 
-la pandemia), y consegí algunos reconocimientos por desempeño académico, lo cual fue algo que nunca fue mi meta, lo que 
+la pandemia), y conseguí algunos reconocimientos por desempeño académico, lo cual fue algo que nunca fue mi meta, lo que 
 me gusta es aprender y sentir que estoy haciendo lo que me gusta, porque estar cursando esta carrera ya significa un 
 gran privilegio para mí.
 

@@ -10,3 +10,7 @@ Hola ✌️  soy el explorer **Gabriel Torres Mendoza** y este es mi blog person
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀
+
+> [My posts](https://gabrieltorres519.github.io/my_launchx_blog/posts/)
+> [About me](https://gabrieltorres519.github.io/my_launchx_blog/pages/about/)
+

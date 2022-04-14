@@ -93,6 +93,8 @@ un ojo crítico y contemplativo), el manga más experimental, pero también el c
 Lo que me gusta es que el enfoque en sus historias es casi simpre en los personajes, sus emociones y sentimientos, su desarrollo y el de 
 sus relaciones con otros personajes.
 
+Me gusta leer ficción y no ficción. algunos de los libros que me gusta mencionar son El hombre en busca de sentido de Viktor Frankl, Flores para Algernón de Daniel keyes, El Mono Desnudo de Desmond Morris y sobre más filosóficos como Critica de la Razón Pura de Emmanuel Kant.
+
 
 
 **Esto es todo, gracias por leerme!! 😊**

@@ -40,9 +40,8 @@ Me encantó!!, pero no fue sencillo...
 **Actualidad**. Actualmente estoy enfocado en aprender desarrollo Web, he desarrollado ya varias aplicaciones (la mayoría con apoyo de tutoriales) utilizando SCSS, Javascript, VueJS y ReactJS para el frontend, NodeJS y PHP en el backend, bases de datos como MySQL y MongoDB, además de tecnologías como apollo client, apollo server, graphQL y servicios de Amazon como el S3 Bucket y me ha encantado ❤️, aunque no se me ha hecho sencillo 🤣.
 También actualmente me encuentro en la "Misión Backend" de Launch X, cuyo programa cursé desde el Onboarding, con el curso Python, Git y Github,así como toda la "Misión Frontend", buscando validar las habilidades en mi currículum con ayuda de **Innovacción Virtual México "powered by Microsoft"**, lo dejaré por aquí -> [CV](https://drive.google.com/file/d/1gT_kiLhfvsm9LlDBYTsFnF0w2_TnSptj/view), por si es de tu interés jeje.
 
-**Qué chula nube!!**. Otro de mis grandes intereses son las tecnologías Cloud, a las que me adentré en el **Cloud Bootcamp Colombia** organizado por la comunidad de Microsoft Learn Student Ambassadors, con quieres también participé en el HackLatam y posteriormente me acerqué un poco a la comunidad de [Azure Tech Frogs](https://www.facebook.com/azuretechfrogs) con estudiantes de mi estado, donde tengo algunos amigos, viendo su contenido.
+**Qué chula nube!!**. Otro de mis grandes intereses son las tecnologías Cloud, a las que me adentré en el [**Cloud Bootcamp Colombia**](https://drive.google.com/file/d/1tNAY7ayOlLrPT3rpPF9DjFTe9x-vyoNC/view?usp=sharing) organizado por la comunidad de Microsoft Learn Student Ambassadors, con quieres también participé en el [HackLatam 2021](https://drive.google.com/file/d/1SRepz37lzp9ohosM40aevOoACZAtY_xY/view?usp=sharing) y posteriormente me acerqué un poco a la comunidad de [Azure Tech Frogs](https://www.facebook.com/azuretechfrogs) con estudiantes de mi estado, donde tengo algunos amigos, viendo su contenido.
 
-https://drive.google.com/file/d/1SRepz37lzp9ohosM40aevOoACZAtY_xY/view?usp=sharing
 
 **Mis Hobbies**.
 

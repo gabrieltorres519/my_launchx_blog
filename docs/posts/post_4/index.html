@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Los objetos pelones de Javascript!! - Bitácora de Viaje de Gabriel Torres Mendoza</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="https://gabrieltorres519.github.io/my_launchx_blog/favicon.png">
+
+  
+  
+  <link rel="stylesheet" href="../../css/style.min.4f4767d518839223786999cdb69fc7a63791220ecccd236bc732a5f998aaee2d.css">
+  
+
+  
+    <meta name="description" content="Launch X Backend"/>
+    <meta property="og:title" content="Los objetos pelones de Javascript!!"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://gabrieltorres519.github.io/my_launchx_blog/posts/post_4/"/>
+    
+    <meta property="og:description" content="Launch X Backend"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@GabrielleTorri1"/>
+    <meta name="twitter:creator" content="@GabrielleTorri1"/>
+  
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet"> 
+</head>
+
+
+
+
+<body class='page frame page-blog-single'>
+  <div id="wrapper" class="wrapper">
+    <div class='header'>
+  <a class="header-logo" href="https://gabrieltorres519.github.io/my_launchx_blog/">Bitácora de Viaje de Gabriel Torres Mendoza</a>
+  <div class="menu-main">
+    <ul>
+        
+        
+            <li class="menu-item-aboutme">
+                <a href="../../pages/about/">AboutMe</a>
+            </li>
+        
+            <li class="menu-item-posts">
+                <a href="../../posts/">Posts</a>
+            </li>
+        
+    </ul>
+  </div>
+</div>
+    
+  <div class="blog">
+    
+    <div class="intro">
+      <h1>Los objetos pelones de Javascript!!<span class="dot">.</span></h1>
+      
+    </div>
+    <div class="content">
+      <p>Objetos pelones de Javascript 🖥️</p>
+<p>Los conceptos principales de javascript son los objetos (let dentro de funciones, var fuera de funciones, const para objetos casi siempre).</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/07214928-bfd2-4460-90ce-055715812efc/Untitled.png" alt="Untitled"></p>
+<p>Un objeto es como un diccionario donde puedes poner una llave y un valor.</p>
+<p>Ejemplo la llave que nombramos model:</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2813408d-2c1a-4c7f-b543-73170a62e6ab/Untitled.png" alt="Untitled"></p>
+<p>Mismo procedimiento en consola con el REPL de node.</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61d0bc10-3147-4833-9454-c8bd91660082/Untitled.png" alt="Untitled"></p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c9eb7f46-a1ec-469c-b239-db286c0ebc44/Untitled.png" alt="Untitled"></p>
+<p>Se permiten tantas llaves y valores como quieras.</p>
+<p>Vamos a comentar el concepto de modularización.</p>
+<p>Si el código no se hace modular lidias con variables globales para todo el archivo, si solo lo separabas era lo mismo porque al final todo se iba a cargar en el mismo concepto de la página.</p>
+<p>En node puedes tener objetos y funciones, en Javascrip-Node las funciones se usan para aislar infomración, para artificialmente crear la “encapsulación” de parámetros (o también de atributos para POO).</p>
+<p>Una función en sintaxis de Javascript luce así.</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b341978d-9a82-492d-82ab-7262a1735a88/Untitled.png" alt="Untitled"></p>
+<p>En el contexto de los objetos de javascript las funciones nos servirán para aislar información.</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1c0bae6-0102-49b2-814f-e1e276012a92/Untitled.png" alt="Untitled"></p>
+<p>Nos sirven para aislar información pues como podemos ver, solo lo que la función exporte es lo que podremos ver o acceder (forma artificial de hacer encapsulación POO).</p>
+<p>No se nos permite acceder a privatefoo y verlo con console.log pues no es exportado por la función.</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb72eb3c-7ffb-4530-8a23-5b10ee6552f2/Untitled.png" alt="Untitled"></p>
+<p>Así escondemos info.</p>
+<p>Ya que esto es un concepto de Javascript y no propiamente de node de momento, podemos trabajar esto en la consola del navegador que nativamente sabe javascript.</p>
+<p>Es recomendable probar el comportamiento de nuestro código javascript en la consola del navegador para ver su comportamiento ya en el navegador.</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15bfd533-7187-49b3-99db-d6d91bf2acbb/Untitled.png" alt="Untitled"></p>
+<p>Esta encapsulación artificial con funciones es lo que nos permitirá modularizar nuestro proyecto en realidad.</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9fbbc3c-a95e-44c8-bbe6-3f4078224e75/Untitled.png" alt="Untitled"></p>
+<p>En navegador si escribimos mymodule nos regresará una función</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8708d760-8ffe-47e6-a3fb-06b0f11dddb7/Untitled.png" alt="Untitled"></p>
+<p>Pare ejecutar la función usamos myModule()</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d16e3171-2d66-47f0-83dc-366812fbab81/Untitled.png" alt="Untitled"></p>
+<p>Nótese que la función retorna un objeto y para extraer el atributo del objeto retornado se usa la función con el operador punto myModule().publicFoo.</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9423c1e-4605-40e5-92e5-54ff6236ac13/Untitled.png" alt="Untitled"></p>
+<p>Todo esto es necesario para modularizar Javascrip pero NodeJS nos resuelve esta modularización para que no la tengamos que hacer manualmente con funciones.</p>
+<p>La modularización con funciones es manejada en commonjs con exports.</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/042c44fc-b30d-4c4c-aa55-092cbafe48e6/Untitled.png" alt="Untitled"></p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0804f11-81e5-4c6a-b193-939545abdb60/Untitled.png" alt="Untitled"></p>
+<p>Estas funciones son exportadas y las podemos importar desde cualquier otro archivo (el nombre se le puso logger porque lo único que hace es exportar funciones que hacen console.log()).</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6fc797e-07ba-46f0-99ee-8053616a3952/Untitled.png" alt="Untitled"></p>
+<p>Por convención “require(’./ruta_del_archivo_con_las_funciones_y_objetos_que_ocupo’)” se usa en proyecto server.</p>
+<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/700e259e-fa7a-45c0-88b8-860aacedcda8/Untitled.png" alt="Untitled"></p>
+<p>Al correr con NodeJS nuestro archivo main.js podemos ver que ha obtenido correctamente los contenidos de las funciones en el archivo logger.js</p>
+
+    </div>
+  </div>
+
+    <div class="footer">
+  
+  <div class="footer-social">
+    
+      <span class="social-icon social-icon-twitter">
+        <a href="https://twitter.com/GabrielleTorri1" title="twitter" target="_blank" rel="noopener">
+          <img src="../../images/social/twitter.svg" width="24" height="24" alt="twitter"/>
+        </a>
+      </span>
+    
+      <span class="social-icon social-icon-github">
+        <a href="https://github.com/gabrieltorres519" title="github" target="_blank" rel="noopener">
+          <img src="../../images/social/github.svg" width="24" height="24" alt="github"/>
+        </a>
+      </span>
+    
+  </div>
+  
+</div>
+  </div>
+
+  
+
+  
+
+  
+  <script type="text/javascript" src="../../js/bundle.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js"></script>
+  
+
+  
+  
+
+  
+  
+  
+    
+  
+
+
+</body>
+</html>

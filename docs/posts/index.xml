@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrieltorres519.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Las herramientas del desarrollador</title>
+      <link>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Las herramientas del desarrollaodr 🖥️
+1.- Conoce tus herramientas.
+El dominio de VSCode como herramienta para desarrollar software, así como VIM permitirá diferenciarse y realizar los desarrollos de una manera mucho más eficiente.
+2.- Git y GitHub
+Git se trata de un proyecto opensource que nos permite manejar y gestionar los proyectos de software, los cuales son muy particulares y no se pueden comparar por ejemplo con proyectos de Ingeniería Civil, Ingeniería Química, etc,</description>
+    </item>
+    
+    <item>
       <title>La Cultura del Desarrollador de Software</title>
       <link>https://gabrieltorres519.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>

@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Gabriel Torres Mendoza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrieltorres519.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrieltorres519.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript &#43; Node</title>
+      <link>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_3/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_3/</guid>
+      <description>Javascript + Node 🖥️
+En esta semana se comenzó a trabajar con node y es importante tener en cuenta que la versión de node llega a significar un problema pues algunas versiones de node son incompatibles con ciertas librerías, o hasta con ciertos proyectos.
+Javascript nació para crear aplicaciones en el navegador, nodejs es un Engine, es decir, es un programa que a nosotros nos permitirá usar javascript del lado del servidor, crear aplicaciones de tipo servidor.</description>
+    </item>
+    
     <item>
       <title>Las herramientas del desarrollador</title>
       <link>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_2/</link>
@@ -18,17 +29,6 @@
 El dominio de VSCode como herramienta para desarrollar software, así como VIM permitirá diferenciarse y realizar los desarrollos de una manera mucho más eficiente.
 2.- Git y GitHub
 Git se trata de un proyecto opensource que nos permite manejar y gestionar los proyectos de software, los cuales son muy particulares y no se pueden comparar por ejemplo con proyectos de Ingeniería Civil, Ingeniería Química, etc,</description>
-    </item>
-    
-    <item>
-      <title>Las herramientas del desarrollador</title>
-      <link>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_3/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_3/</guid>
-      <description>Javascript + Node 🖥️
-En esta semana se comenzó a trabajar con node y es importante tener en cuenta que la versión de node llega a significar un problema pues algunas versiones de node son incompatibles con ciertas librerías, o hasta con ciertos proyectos.
-Javascript nació para crear aplicaciones en el navegador, nodejs es un Engine, es decir, es un programa que a nosotros nos permitirá usar javascript del lado del servidor, crear aplicaciones de tipo servidor.</description>
     </item>
     
     <item>

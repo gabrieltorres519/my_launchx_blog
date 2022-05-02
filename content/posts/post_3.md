@@ -1,6 +1,6 @@
 ---
-title: "Las herramientas del desarrollador"
-date: 2022-04-16
+title: "Javascript + Node"
+date: 2022-04-19
 description: 'Launch X Backend'
 ---
 

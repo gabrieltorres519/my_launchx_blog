@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrieltorres519.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>TDD: Las pruebas NO SON NEGOCIABLES!!</title>
+      <link>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_6/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_6/</guid>
+      <description>TDD 🖥️
+Creación de un proyecto de NodeJS aproximación con TDD  npm init npm install &amp;ndash;save-dev jest crear el archivo .gitignore y dentro escribir /node_modules para no versionarlos agregar el script de test “node ./node_modules/.bin/jest” esto en Linux git init git remote add origin url git status git add * git commit -m “1. Primer commit, proyecto iniciado y jest instalado” git push origin master npm install express &amp;ndash;save (en casos de que vallas a crear un servidor) crear el archivo app.</description>
+    </item>
+    
+    <item>
       <title>Los objetos pelones de Javascript y Modularización!!</title>
       <link>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_4/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>

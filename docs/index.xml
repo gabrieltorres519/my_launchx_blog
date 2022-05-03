@@ -22,6 +22,20 @@ Se permiten tantas llaves y valores como quieras.</description>
     </item>
     
     <item>
+      <title>No sigas una receta, entiende Git básico</title>
+      <link>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_5/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_5/</guid>
+      <description>Los comandos básicos 🖥️
+→ Git innit
+Cuado hemos inicializado un repositorio podemos borrarlo haciendo ls -la y encontramos la carpeta llamada .git, para borrar el repositorio solo borramos ese archivo con rn .git
+Esa carpteta es “la base de datos de Git”, que con ayuda de git objects tiene sus funcionalidades para versionamiento, etc.
+Cuando inicializamos un repo con innit nos crea la branch.
+Si lo que hicimos fue clonar un repo, podemos ver son git remote -v de dónde lo clonamos (url del repo remoto).</description>
+    </item>
+    
+    <item>
       <title>Javascript &#43; Node</title>
       <link>https://gabrieltorres519.github.io/my_launchx_blog/posts/post_3/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>

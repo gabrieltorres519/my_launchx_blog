@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Los objetos pelones de Javascript!! - Bitácora de Viaje de Gabriel Torres Mendoza</title>
+  <title>Los objetos pelones de Javascript y Modularización!! - Bitácora de Viaje de Gabriel Torres Mendoza</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="https://gabrieltorres519.github.io/my_launchx_blog/favicon.png">
 
@@ -15,7 +15,7 @@
 
   
     <meta name="description" content="Launch X Backend"/>
-    <meta property="og:title" content="Los objetos pelones de Javascript!!"/>
+    <meta property="og:title" content="Los objetos pelones de Javascript y Modularización!!"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://gabrieltorres519.github.io/my_launchx_blog/posts/post_4/"/>
     
@@ -55,51 +55,56 @@
   <div class="blog">
     
     <div class="intro">
-      <h1>Los objetos pelones de Javascript!!<span class="dot">.</span></h1>
+      <h1>Los objetos pelones de Javascript y Modularización!!<span class="dot">.</span></h1>
       
     </div>
     <div class="content">
       <p>Objetos pelones de Javascript 🖥️</p>
+<h3 id="los-objetos">Los objetos</h3>
 <p>Los conceptos principales de javascript son los objetos (let dentro de funciones, var fuera de funciones, const para objetos casi siempre).</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/07214928-bfd2-4460-90ce-055715812efc/Untitled.png" alt="Untitled"></p>
 <p>Un objeto es como un diccionario donde puedes poner una llave y un valor.</p>
 <p>Ejemplo la llave que nombramos model:</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2813408d-2c1a-4c7f-b543-73170a62e6ab/Untitled.png" alt="Untitled"></p>
-<p>Mismo procedimiento en consola con el REPL de node.</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61d0bc10-3147-4833-9454-c8bd91660082/Untitled.png" alt="Untitled"></p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c9eb7f46-a1ec-469c-b239-db286c0ebc44/Untitled.png" alt="Untitled"></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-jsx" data-lang="jsx"><span class="kd">let</span> <span class="nx">mycar</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Objetc</span><span class="p">();</span>
+
+<span class="nx">mycar</span><span class="p">.</span><span class="nx">model</span> <span class="o">=</span> <span class="s2">&#34;Audi&#34;</span>
+</code></pre></div><p>Mismo procedimiento en consola con el REPL de node.</p>
 <p>Se permiten tantas llaves y valores como quieras.</p>
-<p>Vamos a comentar el concepto de modularización.</p>
+<h3 id="el-concepto-de-modularización">El concepto de modularización.</h3>
 <p>Si el código no se hace modular lidias con variables globales para todo el archivo, si solo lo separabas era lo mismo porque al final todo se iba a cargar en el mismo concepto de la página.</p>
 <p>En node puedes tener objetos y funciones, en Javascrip-Node las funciones se usan para aislar infomración, para artificialmente crear la “encapsulación” de parámetros (o también de atributos para POO).</p>
 <p>Una función en sintaxis de Javascript luce así.</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b341978d-9a82-492d-82ab-7262a1735a88/Untitled.png" alt="Untitled"></p>
-<p>En el contexto de los objetos de javascript las funciones nos servirán para aislar información.</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1c0bae6-0102-49b2-814f-e1e276012a92/Untitled.png" alt="Untitled"></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-jsx" data-lang="jsx"><span class="kd">let</span> <span class="nx">myFunction</span> <span class="o">=</span> <span class="p">(</span><span class="nx">argumentos</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span><span class="nx">lo</span> <span class="nx">que</span> <span class="nx">harás</span><span class="p">}</span>
+</code></pre></div><p>En el contexto de los objetos de javascript las funciones nos servirán para aislar información.</p>
 <p>Nos sirven para aislar información pues como podemos ver, solo lo que la función exporte es lo que podremos ver o acceder (forma artificial de hacer encapsulación POO).</p>
 <p>No se nos permite acceder a privatefoo y verlo con console.log pues no es exportado por la función.</p>
 <p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb72eb3c-7ffb-4530-8a23-5b10ee6552f2/Untitled.png" alt="Untitled"></p>
 <p>Así escondemos info.</p>
 <p>Ya que esto es un concepto de Javascript y no propiamente de node de momento, podemos trabajar esto en la consola del navegador que nativamente sabe javascript.</p>
 <p>Es recomendable probar el comportamiento de nuestro código javascript en la consola del navegador para ver su comportamiento ya en el navegador.</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15bfd533-7187-49b3-99db-d6d91bf2acbb/Untitled.png" alt="Untitled"></p>
 <p>Esta encapsulación artificial con funciones es lo que nos permitirá modularizar nuestro proyecto en realidad.</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9fbbc3c-a95e-44c8-bbe6-3f4078224e75/Untitled.png" alt="Untitled"></p>
-<p>En navegador si escribimos mymodule nos regresará una función</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8708d760-8ffe-47e6-a3fb-06b0f11dddb7/Untitled.png" alt="Untitled"></p>
-<p>Pare ejecutar la función usamos myModule()</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d16e3171-2d66-47f0-83dc-366812fbab81/Untitled.png" alt="Untitled"></p>
-<p>Nótese que la función retorna un objeto y para extraer el atributo del objeto retornado se usa la función con el operador punto myModule().publicFoo.</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9423c1e-4605-40e5-92e5-54ff6236ac13/Untitled.png" alt="Untitled"></p>
-<p>Todo esto es necesario para modularizar Javascrip pero NodeJS nos resuelve esta modularización para que no la tengamos que hacer manualmente con funciones.</p>
+<p>Todo esto es necesario para encapsular en Javascrip pero NodeJS nos resuelve esta modularización para que no la tengamos que hacer manualmente con funciones.</p>
 <p>La modularización con funciones es manejada en commonjs con exports.</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/042c44fc-b30d-4c4c-aa55-092cbafe48e6/Untitled.png" alt="Untitled"></p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0804f11-81e5-4c6a-b193-939545abdb60/Untitled.png" alt="Untitled"></p>
-<p>Estas funciones son exportadas y las podemos importar desde cualquier otro archivo (el nombre se le puso logger porque lo único que hace es exportar funciones que hacen console.log()).</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6fc797e-07ba-46f0-99ee-8053616a3952/Untitled.png" alt="Untitled"></p>
-<p>Por convención “require(’./ruta_del_archivo_con_las_funciones_y_objetos_que_ocupo’)” se usa en proyecto server.</p>
-<p><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/700e259e-fa7a-45c0-88b8-860aacedcda8/Untitled.png" alt="Untitled"></p>
-<p>Al correr con NodeJS nuestro archivo main.js podemos ver que ha obtenido correctamente los contenidos de las funciones en el archivo logger.js</p>
+<p><strong>Formas de exportar contenidos dentro de archivos.</strong></p>
+<ul>
+<li>exports.nombre_de_mi_función_flecha = (input) = &gt; { console.log(<code>myinfo jeje: ${input}</code>); }</li>
+<li>module.exports = nombre_de_clase_que_queramos_exportar</li>
+<li>export default class clase_Creada {}  //También se pueden exportar así funciones y constantes.</li>
+</ul>
+<p>Una ventaja de module.exports es que podemos exportar objetos ya instanciados y no solo la clase entera.</p>
+<p>module.exports = new myClass(’contenido para su constructor’);</p>
+<p><strong>Formas de importar archivos.</strong></p>
+<p>1 Con la sintaxis de Commonjs que se creo para modularizar el código js.</p>
+<ul>
+<li>const nombre = require(’./ruta_del_archivo_con_las_funciones_y_objetos_que_ocupo’);Con</li>
+</ul>
+<p>2 Con la sintaxis de Ecmascript optimizada para el uso de package.json y con ello uso de módulos de terceros que son muy grandes y solo queremos jalar partes específicas.</p>
+<ul>
+<li><em>import</em> { función_u_objeto_o_variable_exportada_en_el_archivo } <em>from</em> &lsquo;./archivo.js&rsquo;</li>
+</ul>
+<p>El equivalente en Ecmascript para importar el archivo completo como en Commonjs es así:</p>
+<ul>
+<li><em>import</em> * <em>as</em> loggerModule <em>from</em> &lsquo;./logger.js&rsquo;</li>
+</ul>
 
     </div>
   </div>

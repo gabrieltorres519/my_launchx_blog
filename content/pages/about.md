@@ -10,7 +10,7 @@ menu:
 Hola, aquí vas a poder leer sobre mi 🤩
 
 > La disciplina, tarde o temprano, vencerá a la inteligencia.
-> - Yokoi Kenji
+> - Proverbio Japonés
 
 
 **Soy estudiante de Ingeniería en Sistemas Computacionales.** Actualmente me encuentro cursando el sexto semestre de la carrera, estoy un poco por encima del 50% de los créditos. Siempre me ha interesado la tecnología, en la preparatoria me introduje un poco a Arduino y a la creación de páginas WEB simples por diversión, pero antes de decidirme a cursar una carrera en este campo, me encantaba la biología y los temas relacionados con medicina, me gustaba tanto el estudiar y comprender sobre los organismos, desde la célula, sus organelos y sus procesos bioquímicos, hasta los tejidos, órganos y sistemas, que me preparé y participé en un Concurso Institucional de Biología que organiza mi universidad, en el que participan todas las sedes de la misma en el estado a nivel preparatoria, y pude conseguir el primer lugar ❤️ [Constancia](https://drive.google.com/file/d/1drLOHVv4Yn5qM3LKnCQLdBXd-7ckRj3e/view). 
